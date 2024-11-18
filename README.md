@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Tom Warden
 
-- 🌱 I’m currently learning the basics of C++ in preparation for my MSc in Computer Science.
+- 🌱 I’m currently learning Python in my Software Development module.
 - 💻 I’m working on a client app for Culley & McAlpine Solicitors, updating their website: [Culley & McAlpine](https://www.culleymcalpine.co.uk/).
 - 👻 I am now completeing my Msc in Computer Science at the [University of Dundee](https://www.dundee.ac.uk)
 - 😄 Pronouns: He/Him/His
